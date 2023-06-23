@@ -13,7 +13,7 @@ spec:
         app: http
     spec:
       containers:
-      - name: farzana_http
+      - name: farzanahttp
         image: farzanarahman/building_image:latest
         ports:
         - containerPort: 80
